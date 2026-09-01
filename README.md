@@ -6,7 +6,6 @@ A modern weather application built with HTML, CSS, and JavaScript that allows us
 
 ![Weather App Screenshot](./assets/preview.png)
 
-> Replace `preview.png` with a screenshot of your project.
 
 ## Features
 
